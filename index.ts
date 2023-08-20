@@ -44,12 +44,10 @@ async function followUsers(page: Page) {
 
             await page.waitForSelector(followButtonClasses)
         } catch { 
-            page.
+            // scroll down
         }
         await page.click(followButtonClasses)
     }, 1000 * 1.6 )
-
-
 
 }
 async function main(options: option) { 
