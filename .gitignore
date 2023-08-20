@@ -1,0 +1,4 @@
+dist
+follow-project.txt
+node_modules
+.env
