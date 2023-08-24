@@ -1,5 +1,6 @@
 export interface option { 
-    userProfileLink: string
+    userProfileLinkFollowing: string
+    userProfileLinkLiked: string
     launchOptions: launchOptions
 }
 

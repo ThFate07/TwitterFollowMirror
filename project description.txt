@@ -1,0 +1,14 @@
+to change the project into following liked user - 
+    1. change the userProfileLink to the user's like page url.
+    2. check if the first post is a reply liked or simple liked
+    3. use the hover effect on first user. ( if simple liked )
+    4. follow if not followed.
+    5. move to the next user ( delete or use list ).
+    ( will have to figure out if it would render as the page is not scrolling);
+
+
+after going to like page.
+    find all the post using queryselector
+    // follow/not follow users check if it is a reply first.
+    
+    after all post is done. delete all the post and scroll down using some javascript and repeat
